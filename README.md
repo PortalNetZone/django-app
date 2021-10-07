@@ -13,3 +13,16 @@ Don't worry about the message `No requirement files could be found.` there are n
 3. The next steps:
 * Take a clone of your project to your local machine.
 * From now on, we'll proceed to the next steps by opening issues and creating feature branches. So, you'll need to follow each issue.
+
+##Badges
+1. Building Travis CI from Upstream: \
+Branch main \
+[![Build Status](https://app.travis-ci.com/PortalNetZone/django-app.svg?branch=main)](https://app.travis-ci.com/PortalNetZone/django-app) \
+~~Branch master~~ \
+[![Build Status](https://app.travis-ci.com/PortalNetZone/django-app.svg?branch=main)](https://app.travis-ci.com/PortalNetZone/django-app)
+2. ~~Building Travis CI from Fork (branch main):~~ \
+[![Build Status](https://app.travis-ci.com/PortalNetZone/django-app.svg?branch=main)](https://app.travis-ci.com/PortalNetZone/django-app)
+### Providing a test coverage with Codecov:
+[![codecov](https://codecov.io/gh/PortalNetZone/django-app/branch/main/graph/badge.svg?token=4GNFEXKWCW)](https://codecov.io/gh/PortalNetZone/django-app)
+### Integrating dynamic updates to dependencies of the project with Pyup:
+Comming soon after this pull request... close #3
