@@ -10,4 +10,6 @@ Getting started with Django Framework
 * After that, the initial setup will create a feature branch named `pyup-bot` followed by a pull request, and an opened issue under the repository of the project. \
 Don't worry about the message `No requirement files could be found.` there are no pinned dependencies yet, and also no badges for while.
 * Then, in Github, all you have to do is to accept that initial pull request and confirm it with `Rebase and Merge`, delete the branch, and close the issue.
-3. We will proceed to the next steps by opening issues and creating feature branches. So now, you'll need to follow these issues. 
+3. The next steps:
+* Take a clone of your project to your local machine.
+* From now on, we'll proceed to the next steps by opening issues and creating feature branches. So, you'll need to follow each issue.
