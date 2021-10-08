@@ -25,4 +25,4 @@ Branch main \
 ### Providing a test coverage with Codecov:
 [![codecov](https://codecov.io/gh/PortalNetZone/django-app/branch/main/graph/badge.svg?token=4GNFEXKWCW)](https://codecov.io/gh/PortalNetZone/django-app)
 ### Integrating dynamic updates to dependencies of the project with Pyup:
-Comming soon after this pull request... close #3
+[![Updates](https://pyup.io/repos/github/PortalNetZone/django-app/shield.svg)](https://pyup.io/repos/github/PortalNetZone/django-app/) [![Python 3](https://pyup.io/repos/github/PortalNetZone/django-app/python-3-shield.svg)](https://pyup.io/repos/github/PortalNetZone/django-app/)
