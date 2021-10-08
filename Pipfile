@@ -10,6 +10,7 @@ django = "*"
 pytest = "*"
 pytest-cov = "*"
 flake8 = "*"
+codecov = "*"
 
 [requires]
 python_version = "3.9"
