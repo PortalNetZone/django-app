@@ -19,7 +19,7 @@ Don't worry about the message `No requirement files could be found.` there are n
 Branch main \
 [![Build Status](https://app.travis-ci.com/PortalNetZone/django-app.svg?branch=main)](https://app.travis-ci.com/PortalNetZone/django-app) \
 ~~Branch master~~ \
-[![Build Status](https://app.travis-ci.com/PortalNetZone/django-app.svg?branch=main)](https://app.travis-ci.com/PortalNetZone/django-app)
+[![Build Status](https://app.travis-ci.com/PortalNetZone/django-app.svg?branch=dev)](https://app.travis-ci.com/PortalNetZone/django-app)
 2. ~~Building Travis CI from Fork (branch main):~~ \
 [![Build Status](https://app.travis-ci.com/PortalNetZone/django-app.svg?branch=main)](https://app.travis-ci.com/PortalNetZone/django-app)
 ### Providing a test coverage with Codecov:
