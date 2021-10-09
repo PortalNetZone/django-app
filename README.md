@@ -26,3 +26,6 @@ Branch main \
 [![codecov](https://codecov.io/gh/PortalNetZone/django-app/branch/main/graph/badge.svg?token=4GNFEXKWCW)](https://codecov.io/gh/PortalNetZone/django-app)
 ### Integrating dynamic updates to dependencies of the project with Pyup:
 [![Updates](https://pyup.io/repos/github/PortalNetZone/django-app/shield.svg)](https://pyup.io/repos/github/PortalNetZone/django-app/) [![Python 3](https://pyup.io/repos/github/PortalNetZone/django-app/python-3-shield.svg)](https://pyup.io/repos/github/PortalNetZone/django-app/)
+### More utils for accomplishment:
+* Deployment on [Heroku](https://dashboard.heroku.com/apps/pythonprodjango-app)
+* Standard [Django Server](http://127.0.0.1:8000/)
